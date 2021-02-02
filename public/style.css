@@ -1,0 +1,27 @@
+body{
+    background-image: url(pict/3.jpg);
+    background-repeat: no-repeat;
+    overflow: visible;
+    text-align: center;
+}
+
+h1{ 
+
+    color: rgb(0, 64, 68);
+    font-size: 100px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+h1:hover{
+    cursor: pointer;
+    transform:scale(1.09, 1.09);
+    box-shadow: 0px 0px 20px grey;
+    border: 1px solid rgb(0, 0, 0);
+    margin-bottom: 35px;
+}
+span{
+    margin-top: 50px;
+    font-size: 110px;
+    color: brown;
+}
