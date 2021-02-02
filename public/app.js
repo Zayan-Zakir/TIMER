@@ -33,4 +33,4 @@ function startTime() {
     }
     setInterval(updateCountDown, 1000);
 }
-startTime()
+startTime() 
